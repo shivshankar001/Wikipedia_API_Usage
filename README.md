@@ -1,70 +1,74 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📚 Wikipedia Top 10 Articles
 
-## Available Scripts
+Welcome to the Wikipedia Top 10 Articles project! This repository contains a React application that uses the Wikipedia API to fetch and display the top 10 trending articles. The project leverages Axios for API requests and provides a simple, intuitive user interface.
 
-In the project directory, you can run:
 
-### `npm start`
+## 🔗Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Check out the live demo [here](https://your-live-demo-link.com)!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀Features
 
-### `npm run build`
+- Fetches top 10 trending articles from Wikipedia
+- Displays article titles and excerpts
+- Responsive and user-friendly interface
+## 📋Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow these steps to get the project up and running on your local machine:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/wikipedia-top-10.git
+   ```
+   ```bash
+   cd wikipedia-top-10
+   ```
+   ```bash
+   npm install
+   ```
+   ```bash
+   npm start
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+![App Screenshot](https://img.freepik.com/premium-photo/cardano-blockchain-platform_23-2150411956.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1712016000&semt=ais)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- React
+- Axios
+- Wikipedia API
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Support
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have any questions or feedback, please feel free to reach out to me at your-email@example.com.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions are always welcome!
 
-### Analyzing the Bundle Size
+See `contributing.md` for ways to get started.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Please adhere to this project's `code of conduct`.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Badges
 
-### Advanced Configuration
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
