@@ -9,6 +9,10 @@ Welcome to the Wikipedia Top 10 Articles project! This repository contains a Rea
 Check out the live demo [here](https://your-live-demo-link.com)!
 
 
+## Screenshots
+
+![App Screenshot](https://img.freepik.com/premium-photo/cardano-blockchain-platform_23-2150411956.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1712016000&semt=ais)
+
 
 ## 🚀Features
 
@@ -32,11 +36,7 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    npm start
    ```
-
-## Screenshots
-
-![App Screenshot](https://img.freepik.com/premium-photo/cardano-blockchain-platform_23-2150411956.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1712016000&semt=ais)
-
+   
 
 ## 🛠️Technologies Used
 
